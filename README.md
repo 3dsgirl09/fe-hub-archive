@@ -7,3 +7,5 @@ Originally made by Blurry and Destroid
 -Fixed Universal Glitcher
 # Version 1.0.2
 -Fixed some things and made it more stable
+# Version 1.0.2b
+-Fixed some minor things
