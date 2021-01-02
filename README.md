@@ -9,3 +9,5 @@ Originally made by Blurry and Destroid
 -Fixed some things and made it more stable
 # Version 1.0.2b
 -Fixed some minor things
+# Version 1.0.X
+-Closed Source **FOR NOW**
